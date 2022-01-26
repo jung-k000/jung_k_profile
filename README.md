@@ -3,4 +3,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-k000)](https://github.com/jung-k000/jung_k_profile/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-k000)](https://github.com/anuraghazra/github-readme-stats)
